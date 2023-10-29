@@ -1,5 +1,6 @@
 ### How to open a project?
 In order for it to open, first copy this link, then open the terminal and write cd desktop (so that my project opens on your desktop) or the folder where you want to download my project. Then write git clone and past the link. And thus my project appeared on your desktop. Then you can open this folder in Intellij IDEA.
+Also you should install Json or add dependency for your library to open Json.
 # Weater_Application
 
 ### WeatherApp class
