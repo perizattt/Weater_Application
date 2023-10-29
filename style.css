@@ -1,0 +1,28 @@
+.title {
+    -fx-font-size: 24px;
+}
+
+.input {
+    -fx-padding: 5px 70px;
+    -fx-pref-width: 60%;
+}
+
+.search-button {
+    -fx-padding: 5px 10px;
+    -fx-background-color: #007BFF;
+    -fx-text-fill: white;
+    -fx-border-width: 0;
+    -fx-cursor: hand;
+}
+
+.weather-info {
+    -fx-spacing: 20px;
+}
+
+.info-label {
+    -fx-font-size: 18px;
+}
+
+.info-value {
+    -fx-font-size: 18px;
+}
